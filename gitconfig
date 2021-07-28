@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ziyang.lim89@gmail.com
+	name = ray lim
